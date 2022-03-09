@@ -1,5 +1,5 @@
 {
-  "name": "@nut-tree/nut-js",
+  "name": "lwahonen/nut-js",
   "version": "2.0.1",
   "license": "Apache-2.0",
   "main": "dist/index",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nut-tree/nut.js.git"
+    "url": "https://github.com/lwahonen/nut.js.git"
   },
   "bugs": {
     "url": "https://github.com/nut-tree/nut.js/issues"
